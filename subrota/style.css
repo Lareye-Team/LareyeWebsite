@@ -1,0 +1,47 @@
+
+
+
+.main-body{
+ width: 800px;
+  height: 500px;
+  border-top: 474px solid palevioletred;
+  border-right: 960px solid mediumturquoise;
+  border-bottom: 474px solid goldenrod;
+  border-left: 960px solid palevioletred;
+}
+
+.about-body{
+ width: 800px;
+  height: 500px;
+  border-top: 474px solid palevioletred;
+  border-right: 960px solid mediumturquoise;
+  border-bottom: 474px solid palevioletred;
+  border-left: 960px solid palevioletred;
+}
+
+.work-body{
+ width: 800px;
+  height: 500px;
+  border-top: 474px solid mediumpurple;
+  border-right: 960px solid mediumturquoise;
+  border-bottom: 474px solid mediumturquoise;
+  border-left: 960px solid mediumpurple;
+}
+
+.team-body{
+ width: 800px;
+  height: 500px;
+  border-top: 474px solid palevioletred;
+  border-right: 960px solid palevioletred;
+  border-bottom: 474px solid goldenrod;
+  border-left: 960px solid palevioletred;
+}
+
+.contact-body{
+ width: 800px;
+  height: 500px;
+  border-top: 474px solid palevioletred;
+  border-right: 960px solid mediumturquoise;
+  border-bottom: 474px solid goldenrod;
+  border-left: 960px solid goldenrod;
+}
