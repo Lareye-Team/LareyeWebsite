@@ -1,2 +1,2 @@
 # LareyeWebsite
-This site is belonge to lareye.com all copy right reserve to this company. 
+This site belongs to lareye.com all copyright reserve to this company.
